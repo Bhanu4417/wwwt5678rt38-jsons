@@ -3,9 +3,11 @@
   "bio": "wache stack",
   "avatar": 3,
   "isPaid": 1,
-  "totalFocusMinutes": 14988,
+  "timezone": "Asia/Calcutta",
+  "region": "Asia/Calcutta",
+  "totalFocusMinutes": 14992,
   "activeDays": 54,
-  "todayMinutes": 489,
+  "todayMinutes": 493,
   "consistencyScore": 100,
   "currentRankIndex": 13,
   "currentRank": {
@@ -234,7 +236,7 @@
     },
     {
       "date": "2026-04-29",
-      "minutes": 489
+      "minutes": 493
     }
   ],
   "topLanguages": [
@@ -247,17 +249,17 @@
       "totalSeconds": 104319
     },
     {
-      "name": "Java",
-      "totalSeconds": 75371
+      "name": "javascriptreact",
+      "totalSeconds": 75538
     },
     {
-      "name": "javascriptreact",
-      "totalSeconds": 75298
+      "name": "Java",
+      "totalSeconds": 75371
     },
     {
       "name": "Python",
       "totalSeconds": 71219
     }
   ],
-  "generatedAt": "2026-04-29T17:52:34.893Z"
+  "generatedAt": "2026-04-29T17:58:07.717Z"
 }
