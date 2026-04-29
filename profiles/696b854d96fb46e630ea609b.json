@@ -3,12 +3,12 @@
   "bio": "wache stack",
   "avatar": 3,
   "isPaid": 1,
-  "createdAt": "2026-01-17T12:49:17.000Z",
+  "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14689,
+  "totalFocusMinutes": 14694,
   "activeDays": 54,
-  "todayMinutes": 168,
+  "todayMinutes": 173,
   "todayEditor": "Antigravity",
   "consistencyScore": 100,
   "currentRankIndex": 13,
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-04-30",
-      "minutes": 168
+      "minutes": 173
     }
   ],
   "topLanguages": [
@@ -252,7 +252,7 @@
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 78627
+      "totalSeconds": 78927
     },
     {
       "name": "Python",
@@ -263,5 +263,5 @@
       "totalSeconds": 68104
     }
   ],
-  "generatedAt": "2026-04-29T19:06:52.569Z"
+  "generatedAt": "2026-04-29T19:09:22.860Z"
 }
