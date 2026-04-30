@@ -6,9 +6,9 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14694,
+  "totalFocusMinutes": 14705,
   "activeDays": 54,
-  "todayMinutes": 173,
+  "todayMinutes": 184,
   "todayEditor": "Antigravity",
   "consistencyScore": 100,
   "currentRankIndex": 13,
@@ -238,7 +238,7 @@
     },
     {
       "date": "2026-04-30",
-      "minutes": 173
+      "minutes": 184
     }
   ],
   "topLanguages": [
@@ -252,7 +252,7 @@
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 78927
+      "totalSeconds": 79587
     },
     {
       "name": "Python",
@@ -263,5 +263,7 @@
       "totalSeconds": 68104
     }
   ],
-  "generatedAt": "2026-04-30T03:53:09.046Z"
+  "allTimeTotalMinutes": 84334,
+  "allTimeActiveDays": 348,
+  "generatedAt": "2026-04-30T04:04:42.530Z"
 }
