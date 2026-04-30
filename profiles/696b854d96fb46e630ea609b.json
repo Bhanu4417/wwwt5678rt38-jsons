@@ -2,13 +2,13 @@
   "username": "wacheit",
   "bio": "wache stack",
   "avatar": 3,
-  "isPaid": 1,
+  "isPaid": 0,
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 14833,
+  "totalFocusMinutes": 14847,
   "activeDays": 54,
-  "todayMinutes": 312,
+  "todayMinutes": 326,
   "todayEditor": "Antigravity",
   "consistencyScore": 100,
   "currentRankIndex": 13,
@@ -22,7 +22,7 @@
     "sub": "III",
     "threshold": 16200
   },
-  "rankProgress": 54,
+  "rankProgress": 55,
   "last54Days": [
     {
       "date": "2026-03-08",
@@ -238,13 +238,13 @@
     },
     {
       "date": "2026-04-30",
-      "minutes": 312
+      "minutes": 326
     }
   ],
   "todayLanguages": [
     {
       "name": "javascriptreact",
-      "totalSeconds": 10751
+      "totalSeconds": 11591
     },
     {
       "name": "JavaScript",
@@ -264,7 +264,7 @@
     }
   ],
   "last7DaysAverage": 354,
-  "percentChange": -12,
+  "percentChange": -8,
   "topLanguages": [
     {
       "name": "JavaScript",
@@ -276,7 +276,7 @@
     },
     {
       "name": "javascriptreact",
-      "totalSeconds": 87278
+      "totalSeconds": 88118
     },
     {
       "name": "Python",
@@ -287,7 +287,7 @@
       "totalSeconds": 68104
     }
   ],
-  "allTimeTotalMinutes": 28996,
+  "allTimeTotalMinutes": 29010,
   "allTimeActiveDays": 112,
-  "generatedAt": "2026-04-30T06:33:55.794Z"
+  "generatedAt": "2026-04-30T06:48:58.422Z"
 }
