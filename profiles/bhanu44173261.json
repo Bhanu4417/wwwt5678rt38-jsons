@@ -9,7 +9,7 @@
   "totalFocusMinutes": 15482,
   "activeDays": 54,
   "todayMinutes": 858,
-  "todayEditor": "gemini-cli",
+  "todayEditor": "cursor",
   "todayLanguages": [
     {
       "name": "C++",
