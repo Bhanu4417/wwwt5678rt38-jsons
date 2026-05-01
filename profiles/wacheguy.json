@@ -6,9 +6,10 @@
   "createdAt": "2026-01-01T05:00:00.245Z",
   "timezone": "Asia/Calcutta",
   "region": "Asia/Calcutta",
-  "totalFocusMinutes": 15421,
+  "totalFocusMinutes": 15424,
   "activeDays": 54,
-  "todayMinutes": 195,
+  "todayMinutes": 198,
+  "todayEditor": "gemini-cli",
   "todayLanguages": [
     {
       "name": "C++",
@@ -248,7 +249,7 @@
     },
     {
       "date": "2026-05-02",
-      "minutes": 195
+      "minutes": 198
     }
   ],
   "consistencyScore": 100,
@@ -286,7 +287,7 @@
       "totalSeconds": 66323
     }
   ],
-  "allTimeTotalMinutes": 30423,
+  "allTimeTotalMinutes": 30426,
   "allTimeActiveDays": 114,
-  "generatedAt": "2026-05-01T18:30:28.518Z"
+  "generatedAt": "2026-05-01T18:32:23.058Z"
 }
